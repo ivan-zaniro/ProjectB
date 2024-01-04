@@ -13,4 +13,9 @@ public class DemoB {
 	public static void add(int a, int b) {
 		System.out.println(a + b);
 	}
-}
+
+	//Coding from GitHub
+	public static void substract(int a, int b)
+	{
+		System.out.println(a-b);
+	}
