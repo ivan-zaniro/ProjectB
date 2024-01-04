@@ -19,3 +19,4 @@ public class DemoB {
 	{
 		System.out.println(a-b);
 	}
+}
