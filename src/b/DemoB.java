@@ -5,5 +5,6 @@ public class DemoB {
 		System.out.println("Tuesday");
 		System.out.println("B11");
 		System.out.println("B11 GitHub");
+		System.out.println("B11 GitHub");
 	}
 }
