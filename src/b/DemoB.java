@@ -19,4 +19,13 @@ public class DemoB {
 	{
 		System.out.println(a-b);
 	}
+
+	@Override
+	public String toString() {
+		return "DemoB [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString()
+				+ "]";
+	}
+	
+	
+	
 }
